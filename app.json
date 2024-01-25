@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": "5507393958:AAHX79h2kFMpIq3PaC55Lz1sUP8DllPMICg"
+      "value": "6873060195:AAF0sFDzqVQIgzQp6iW7y2ESki5Y447wjTo"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
@@ -19,43 +19,35 @@
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "6075458364"
+      "value": "5674661785"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": "2036414116"
+      "value": "5674661785"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": "14565165"
+      "value": "25613661"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": "48ca584bb97a92564f0c8e873ba10845"
+      "value": "2d3bc5db8e0fa7605be93ee859d29d4d"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-1001642298938"
+      "value": "-1002035803512"
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "-1001780849342"
-    },
-    "FORCE_SUB_CHANNEL2": {
-      "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "-1001056947580"
-    },
-    "FORCE_SUB_GROUP": {
-      "description": "Masukan ID dari Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
-      "value": "-1001707678506"
+      "value": "-1001723636788"
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n<b>KAMU BELUM MEMILIH LINK MEDIA</b>\n<b>silahkan pilih di channel utama!</b>\n\n<b>ʙᴏᴋᴇᴘ ᴠᴠɪᴘ ᴀɴᴛɪ ʙᴀɴɴᴇᴅ</b>\nt.me/WetAgent"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n<b>KAMU BELUM MEMILIH LINK MEDIA</b>\n<b>silahkan pilih di channel utama!</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄!\n<b>ᴋᴀᴍᴜ ʙᴇʀᴀᴅᴀ ᴅɪ ᴛᴇᴍᴘᴀᴛ ʏᴀɴɢ ᴛᴇᴘᴀᴛ</b>\n\n<b>WAJIB JOIN DI 3 LINK INI :</b>\n✦ @BOKEP_VIRAL_JILBAB\n✦ @VCSREAL_TALENT\n✦ @BLACKCATINDO\n\n<b>ᴊɪᴋᴀ sᴜᴅᴀʜ ᴊᴏɪɴ ᴋᴇ-𝟹 ɴʏᴀ,\nᴛᴇᴋᴀɴ ʀᴇsᴛᴀʀᴛ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜɴᴄᴜʟᴋᴀɴ ᴍᴇᴅɪᴀ.</b>"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄!\n<b>ᴋᴀᴍᴜ ʙᴇʀᴀᴅᴀ ᴅɪ ᴛᴇᴍᴘᴀᴛ ʏᴀɴɢ ᴛᴇᴘᴀᴛ</b>\n\n<b>WAJIB JOIN DI CH INI :</b>\n✦ @BOKEPBOCIL ✦\n\n<b>ᴊɪᴋᴀ sᴜᴅᴀʜ ᴊᴏɪɴ,\nᴛᴇᴋᴀɴ ʀᴇsᴛᴀʀᴛ ᴜɴᴛᴜᴋ ᴍᴇᴍᴜɴᴄᴜʟᴋᴀɴ ᴍᴇᴅɪᴀ.</b>"
     }
   },
   "addons": [
