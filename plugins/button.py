@@ -7,11 +7,10 @@ from pyrogram.types import InlineKeyboardButton
 
 
 def start_button(client):
-    if FORCE_SUB_CHANNEL and FORCE_SUB_GROUP:
+    if FORCE_SUB_CHANNEL:
         buttons = [
             [
-                InlineKeyboardButton(text="𝐎𝐑𝐃𝐄𝐑 𝐕𝐕𝐈𝐏", url=f"https://t.me/CumAgent"),
-                InlineKeyboardButton(text="𝐓𝐔𝐓𝐔𝐏", callback_data="close"),
+                InlineKeyboardButton(text="𝐎𝐑𝐃𝐄𝐑 𝐕𝐕𝐈𝐏", url=f"https://t.me/CumAgent")
             ],
         ]
         return buttons
