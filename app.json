@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n<b>KAMU BELUM MEMILIH LINK MEDIA</b>\n<b>silahkan pilih di channel utama!</b>"
+      "value": "𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐁𝐀𝐂𝐊 𝐋𝐀𝐃𝐒!\n\n<b>KAMU BELUM MEMILIH LINK MEDIA</b>\n<b>sɪʟᴀʜᴋᴀɴ ᴘɪʟɪʜ ᴅɪ ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ!</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
